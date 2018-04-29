@@ -5,7 +5,9 @@ The course specifications can be found [here](https://eu.udacity.com/course/data
 
 ## Project 1 
 
-Project 1 is a statistical analysis using Python. 
+Project 1 is a statistical analysis of a dataset that tests the Stroop Effect, or the effect that occurs when you try to say the color of a text, rather than the word, while the word is a different color (eg. the word 'red' written in blue). This dataset contained tests completed by a group of 24 people.  
+
+For this project, I used Python. The project reviews certain statistical tests using Pandas, and visualizes these using Numpy and MatPlotLib.  
 
 ## Project 2
 
